@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Coin
+  - Big Coin
+  - Bullet
+  - Health Pack
+  - HealthPack
+  - Health
+  - Portal
+  - Event
+  - CoinTxt
+  - CoinText
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - bullets
+  - Water
+  - UI
+  - Wall
+  - Characters
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
